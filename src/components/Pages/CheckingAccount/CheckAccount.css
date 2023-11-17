@@ -1,0 +1,29 @@
+.card-content {
+  display: flex;
+}
+.card-option {
+  margin-left: 100px !important;
+  margin-top: 10px !important;
+}
+.card-option select {
+  border: none !important;
+  background-color: rgb(238, 238, 238);
+  outline: none;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 600;
+  color: rgb(78, 78, 78);
+  width: 90px;
+  height: 30px;
+  border: 1px solid rgb(177, 177, 177);
+  border-radius: 7px;
+  cursor: pointer;
+}
+#second-select {
+  margin-left: 8px !important;
+}
+
+/*LineChart*/
+.svg-file {
+  margin-top: -20px;
+}

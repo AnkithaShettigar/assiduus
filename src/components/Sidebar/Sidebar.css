@@ -1,0 +1,30 @@
+.side-nav p {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 13px;
+}
+.side-nav {
+  width: 100%;
+  height: 85vh;
+  /* border: 1px solid red; */
+  /* background-color: aqua; */
+}
+.side-content {
+  padding: 5px;
+  padding-left: 30px;
+  /* border: 1px solid red; */
+
+  height: 30px;
+  width: 150px;
+}
+.nav-link {
+  text-decoration: none;
+  color: black;
+}
+.side-content:hover {
+  color: white;
+  background-color: rgb(51, 170, 51);
+}
+.side-icon {
+  padding-right: 15px;
+}

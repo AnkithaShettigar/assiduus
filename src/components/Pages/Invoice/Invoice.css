@@ -1,0 +1,37 @@
+.invoice-btn {
+  border: none;
+  outline: none;
+  padding: 5px 10px;
+  color: green;
+  border-radius: 5px;
+  margin-top: 15px;
+  margin-left: 150px;
+  cursor: pointer;
+}
+.card-invoice {
+  display: flex;
+}
+.modal-paper {
+  width: 400px;
+  height: 200px;
+  border-radius: 10px;
+  background-color: aliceblue;
+  margin-top: 300px;
+  margin-left: 39%;
+}
+#file-upload-modal {
+  margin-left: 25%;
+}
+.file-choose {
+  margin-top: 20px;
+  margin-left: 110px !important;
+}
+.btn-upload {
+  margin-top: 30px !important;
+  margin-left: 160px !important;
+}
+.btn-close {
+  margin-left: 350px !important;
+  margin-top: -50px !important;
+  font-size: 20px !important;
+}

@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.outer {
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+}
+.inner {
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 20px !important;
+}
+.mid-page {
+  display: flex;
+}
+.graph {
+  /* margin-left: 500px !important; */
+  /* border: 1px solid red; */
+  background-color: rgb(211, 210, 210);
+  /* position: absolute !important; */
+  margin-top: 13px !important;
+  display: flex;
+  flex-wrap: wrap;
+}
+.card {
+  width: 500px;
+  height: 266px;
+  /* border: 1px solid red; */
+  background-color: white;
+  border-radius: 20px;
+  margin: 20px 35px 20px !important;
+  /* margin-left: 30px; */
+}
+.card-title {
+  margin-left: 20px;
+  font-size: 15px;
+  font-weight: 600;
+}
+.card-top {
+  border-bottom: 1px solid rgb(156, 156, 156);
+}

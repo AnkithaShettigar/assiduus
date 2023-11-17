@@ -1,0 +1,27 @@
+.tr-head,
+td {
+  font-size: 10px;
+}
+.tb {
+  margin-top: 20px !important;
+  margin-left: 30px !important;
+}
+.tr-head {
+  color: grey;
+}
+.th1 {
+  padding-left: 10px !important;
+  padding-right: 150px !important;
+}
+.td1 {
+  padding-left: 10px !important;
+}
+.th2 {
+  padding-right: 50px !important;
+}
+.td3 {
+  padding-left: 20px !important;
+}
+td {
+  padding-top: 7px !important;
+}

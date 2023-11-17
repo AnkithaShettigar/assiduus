@@ -1,0 +1,21 @@
+.box1 {
+  width: 15px;
+  height: 15px;
+  border-radius: 4px;
+}
+.InOut {
+  display: flex;
+  margin-left: 280px !important;
+  margin-top: 15px !important;
+}
+.card-top {
+  display: flex;
+}
+.input {
+  background-color: #3de397;
+  margin-right: 5px !important;
+}
+
+.output {
+  background-color: green;
+}
